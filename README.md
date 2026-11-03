@@ -74,3 +74,4 @@ Standard LLMs often struggle with strict algorithmic tasks such as counting occu
    pip install -r requirements.txt --no-deps
    ```
 2. **Run Notebook:** Open `starter/gen_ai_fundamentals_project_starter.ipynb` in a Jupyter / Colab environment with an NVIDIA GPU (16 GB VRAM recommended).
+
